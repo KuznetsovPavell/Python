@@ -1,0 +1,155 @@
+{
+	"jira_url": "https://jira.unity-bars.com:8442",
+	"jira_login": "kpsJira",
+	"jira_pass": "kpsJiraPwd",
+	"gmail_login": "kpsGmail",
+	"gmail_pass": "kpsGmailPwd",
+	"git_repo_dir": "C:\\Git\\publicisgroupe.sql\\",
+	"releases_dir": "D:\\Solutions\\Python\\Release\\",
+	"task_file": "task_list.txt",
+	"release_task_file": "release_task_list.txt",
+	"mmfo_schems_list": [
+		{
+			"schem": "SYS",
+			"pass": "manager2"
+		},
+		{
+			"schem": "BARS",
+			"pass": "barsbars"
+		},
+		{
+			"schem": "BARSUPL",
+			"pass": "barsupl"
+		},
+		{
+			"schem": "BARS_DM",
+			"pass": "bars_dm"
+		},
+		{
+			"schem": "DM",
+			"pass": "dm"
+		},
+		{
+			"schem": "PFU",
+			"pass": "pfu"
+		},
+		{
+			"schem": "SBON",
+			"pass": "sbon"
+		},
+		{
+			"schem": "MGW_AGENT",
+			"pass": "mgw_agent"
+		},
+		{
+			"schem": "BARSAQ",
+			"pass": "barsaq"
+		},
+		{
+			"schem": "BARSTRANS",
+			"pass": "barstrans"
+		},
+		{
+			"schem": "BARS_INTGR",
+			"pass": "bars_intgr"
+		},
+		{
+			"schem": "FINMON",
+			"pass": "finmon"
+		},
+		{
+			"schem": "MSP",
+			"pass": "msp"
+		},
+		{
+			"schem": "SYSTEM",
+			"pass": "system"
+		},
+		{
+			"schem": "NBU_GATEWAY",
+			"pass": "nbu_gateway"
+		},
+		{
+			"schem": "CBD",
+			"pass": "cbd"
+		},
+		{
+			"schem": "BILLS",
+			"pass": "bills"
+		},
+		{
+			"schem": "BARSOS",
+			"pass": "barsos"
+		}
+	],
+	"corp2_schems_list": [
+		{
+			"schem": "SYS",
+			"pass": "manager2"
+		},
+		{
+			"schem": "CORE",
+			"pass": "core"
+		},
+		{
+			"schem": "BANK",
+			"pass": "bank"
+		}
+	],
+	"dbconn": [
+		{
+			"target_branch": "test",
+			"release_name": "TestRelease",
+			"db_name": "db_postgres",
+			"host": "localhost",
+			"port": "5433",
+			"login": "log_postgres",
+			"pass": "pass_postgres"
+		},
+		{
+			"target_branch": "sdo",
+			"release_name": "Test_update",
+			"db_name": "devopsdb",
+			"host": "172.20.21.211",
+			"port": ":5435",
+			"login": "log_sdo",
+			"pass": "pass_sdo"
+		},
+		{
+			"target_branch": "rc_test",
+			"release_name": "Release",
+			"db_name": "db_postgres",
+			"host": "localhost",
+			"port": "5433",
+			"login": "log_postgres",
+			"pass": "pass_postgres"
+		},
+		{
+			"target_branch": "master",
+			"release_name": "BugFix",
+			"db_name": "db_postgres",
+			"host": "localhost",
+			"port": "5433",
+			"login": "log_postgres",
+			"pass": "pass_postgres"
+		},
+		{
+			"target_branch": "bugfix",
+			"release_name": "BugFix",
+			"db_name": "db_postgres",
+			"host": "localhost",
+			"port": "5433",
+			"login": "log_postgres",
+			"pass": "pass_postgres"
+		},
+		{
+			"target_branch": "dev",
+			"release_name": "dev",
+			"db_name": "postgres",
+			"host": "localhost",
+			"port": "5433",
+			"login": "postgres",
+			"pass": "postgres"
+		}		
+	]
+}

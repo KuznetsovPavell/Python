@@ -1,0 +1,100 @@
+{
+	"jira_url": "https://jira.unity-bars.com",
+	"jira_login": "pavlo.kuznetsov",
+	"jira_pass": "Grivnya!$",
+	"gmail_login": "123",
+	"gmail_pass": "123",
+	"git_repo_dir": "C:\\Git\\obuabs\\mmfo",
+	"releases_dir": "C:\\Projects\\Release#C",
+	"task_file": "task_list.txt",
+	"release_task_file": "release_task_list.txt",
+	"mmfo_schems_list": [
+		{
+			"schem": "SYS",
+			"pass": "manager2"
+		},
+		{
+			"schem": "BARS",
+			"pass": "barsbars"
+		},
+		{
+			"schem": "BARSUPL",
+			"pass": "barsupl"
+		},
+		{
+			"schem": "BARS_DM",
+			"pass": "bars_dm"
+		},
+		{
+			"schem": "DM",
+			"pass": "dm"
+		},
+		{
+			"schem": "PFU",
+			"pass": "pfu"
+		},
+		{
+			"schem": "SBON",
+			"pass": "sbon"
+		},
+		{
+			"schem": "MGW_AGENT",
+			"pass": "mgw_agent"
+		},
+		{
+			"schem": "BARSAQ",
+			"pass": "barsaq"
+		},
+		{
+			"schem": "BARSTRANS",
+			"pass": "barstrans"
+		},
+		{
+			"schem": "BARS_INTGR",
+			"pass": "bars_intgr"
+		},
+		{
+			"schem": "FINMON",
+			"pass": "finmon"
+		},
+		{
+			"schem": "MSP",
+			"pass": "msp"
+		},
+		{
+			"schem": "SYSTEM",
+			"pass": "system"
+		},
+		{
+			"schem": "NBU_GATEWAY",
+			"pass": "nbu_gateway"
+		},
+		{
+			"schem": "CBD",
+			"pass": "cbd"
+		},
+		{
+			"schem": "BILLS",
+			"pass": "bills"
+		},
+		{
+			"schem": "BARSOS",
+			"pass": "barsos"
+		}
+	],
+	"corp2_schems_list": [
+		{
+			"schem": "SYS",
+			"pass": "manager2"
+		},
+		{
+			"schem": "CORE",
+			"pass": "core"
+		},
+		{
+			"schem": "BANK",
+			"pass": "bank"
+		}
+	]
+	
+}
