@@ -15,10 +15,11 @@ tagto = sys.argv[3] #'test'
 target_branch = sys.argv[4].lower() #'test'
 '''
 release_no = '13.0.031'
-#tagfrom = 'TestRelease_PROJ_13.0.030'
-tagfrom = 'PRJ-ORACLE19C_P2'
+tagfrom = 'TestRelease_PROJ_13.0.030'
+#tagfrom = 'PRJ-ORACLE19C_P2'
 tagto = 'test'
 target_branch = 'test'
+
 
 git_repo_dir = json_params['git_repo_dir'] #sys.argv[5] #'C:\\Git\\obuabs\\mmfo'
 releases_dir = json_params['releases_dir'] #sys.argv[6] #'D:\\Solutions\\Python\\Release'
